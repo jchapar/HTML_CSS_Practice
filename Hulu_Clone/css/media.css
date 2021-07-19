@@ -71,4 +71,14 @@
     left: 30px;
     margin-top: 60px;
   }
+
+  /* Footer */
+  .footer-lists {
+    flex-direction: column;
+  }
+
+  /* Modal */
+  .modal .modal-box {
+    width: 350px;
+  }
 }
