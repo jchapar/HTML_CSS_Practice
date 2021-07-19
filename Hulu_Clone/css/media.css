@@ -54,4 +54,21 @@
   .categories .covers {
     grid-template-columns: 1fr;
   }
+
+  /* Section Three: Live */
+  .live-border {
+    padding: 30px 10px;
+  }
+
+  /* Section Four: Live Sports */
+  .live-sports {
+    background: url("../img/live-sports-small.jpg") no-repeat center center /
+      cover;
+  }
+
+  .live-sports-content {
+    top: 30px;
+    left: 30px;
+    margin-top: 60px;
+  }
 }
